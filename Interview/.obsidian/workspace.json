@@ -1,64 +1,66 @@
 {
   "main": {
-    "id": "5958fe7a20a778d5",
+    "id": "5847c0b171afdce5",
     "type": "split",
     "children": [
       {
-        "id": "9bc2915685765748",
+        "id": "88152ec99bd28605",
         "type": "tabs",
         "children": [
           {
-            "id": "036c59a77df990ae",
+            "id": "d0f6833807f1b914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick start.md",
+                "file": "Вопросы.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8602726996d7ed87",
+            "id": "acecc1f184e8e8aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Описание методов THREEJS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6b3ca4283681038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Описание методов THREEJS.md",
+                "file": "Вопросы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "9bb1cf8e18bda5ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a1321ae31bba99",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "92b31012a65fc05f",
+    "id": "82f44c6315b00180",
     "type": "split",
     "children": [
       {
-        "id": "8b968c5297fd395d",
+        "id": "8156b541486cb0cc",
         "type": "tabs",
         "children": [
           {
-            "id": "e333b56441f0b966",
+            "id": "231b4a861f29c6dd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +70,7 @@
             }
           },
           {
-            "id": "80bd9880461dfc1d",
+            "id": "6d292961d507de19",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +85,7 @@
             }
           },
           {
-            "id": "73fa73c6f7b5d934",
+            "id": "40d2881758995d28",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +99,20 @@
     "width": 300
   },
   "right": {
-    "id": "44a46d4fdb0ce397",
+    "id": "31a8c19934472be3",
     "type": "split",
     "children": [
       {
-        "id": "38eea2f9d8f40cb6",
+        "id": "0659dce938a3e85c",
         "type": "tabs",
         "children": [
           {
-            "id": "747b78d01dedb2bf",
+            "id": "f2dcc6d09c7fbb66",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Описание методов THREEJS.md",
+                "file": "Вопросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +124,19 @@
             }
           },
           {
-            "id": "dacb44f40d58664b",
+            "id": "dd182bdbaea8f249",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Описание методов THREEJS.md",
+                "file": "Вопросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a33094ccab99dbe1",
+            "id": "75eb4fadceb3717f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,17 +147,17 @@
             }
           },
           {
-            "id": "dcdb68201c6abf82",
+            "id": "e3044a1fd83bb75b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Описание методов THREEJS.md"
+                "file": "Вопросы.md"
               }
             }
           },
           {
-            "id": "d3d521fbb4bfccdd",
+            "id": "5b489218f1199d55",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,11 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6b3ca4283681038",
+  "active": "acecc1f184e8e8aa",
   "lastOpenFiles": [
-    "Quick start.md",
-    "Links.md",
-    "Описание методов THREEJS.md",
-    "Knowledge.md"
+    "Untitled.canvas",
+    "Вопросы.md",
+    "Задачи.md"
   ]
 }
