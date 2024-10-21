@@ -16,3 +16,20 @@
 3. **Гибкость**:
     
     - UV-координаты могут быть определены таким образом, чтобы текстура повторялась, растягивалась или деформировалась в соответствии с формой объекта.
+
+# Как добавить несколько материалов
+
+```js
+const geometry = new THREE.BufferGeometry();
+
+geometry.addGroup(0, 3, 0); // Первая группа (первые 3 индекса) использует первый материал  
+geometry.addGroup(3, 3, 1); // Первая группа (первые 3 индекса) использует первый материал\```
+  
+const blurMaterial = new THREE.MeshPhysicalMaterial({  
+transmission: 1,  
+roughness: 0.4,  
+});  
+  
+const material = new THREE.MeshBasicMaterial({ map: this.texture, transparent: true });
+
+const square = new THREE.Mesh(geometry, [material, blurMaterial]);

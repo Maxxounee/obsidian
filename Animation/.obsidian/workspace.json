@@ -16,21 +16,9 @@
                 "file": "Links.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "05a99332521d50bd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2562fbc85ae2dde4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "Links"
             }
           }
         ]
@@ -53,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -68,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -76,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -107,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Links"
             }
           },
           {
@@ -119,7 +115,9 @@
                 "file": "Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Links"
             }
           },
           {
@@ -130,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -140,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "Links.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Links"
             }
           }
         ]

@@ -16,24 +16,27 @@
                 "file": "Чтиво.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Чтиво"
             }
-          }
-        ]
-      },
-      {
-        "id": "64ce8b310ab2e04c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "8429ed05d1abfae6",
+            "id": "1c44b8ec4cfc5ef2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Полезное.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Полезное"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -68,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -76,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -99,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Полезное.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Полезное"
             }
           },
           {
@@ -115,9 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Полезное.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Полезное"
             }
           },
           {
@@ -128,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -136,7 +153,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Полезное.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Полезное"
             }
           },
           {
@@ -144,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -165,8 +188,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8429ed05d1abfae6",
+  "active": "1c44b8ec4cfc5ef2",
   "lastOpenFiles": [
-    "Чтиво.md"
+    "Чтиво.md",
+    "Полезное.md"
   ]
 }
