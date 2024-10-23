@@ -5,3 +5,7 @@
 * https://tympanus.net/codrops/2023/10/31/image-layer-animations-with-clip-path/
 * https://tympanus.net/Development/GridItemHoverEffect/
 * https://tympanus.net/Development/GridToSlider/
+* https://aristidebenoist.com/
+* https://paulethenriette.com/
+* КОРНЕР ДЕЛЕЙ + подсказка о сролле у указателя мыши https://www.paffi.it/
+* WEBGL переходы https://www.curtainsjs.com/

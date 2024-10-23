@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Knowledge.md",
+                "file": "Animation/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Knowledge.md",
+                "file": "Animation/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Knowledge.md",
+                "file": "Animation/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Knowledge.md"
+                "file": "Animation/Links.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "d5eb6ed2df9f991c",
   "lastOpenFiles": [
+    "NuxtVue/Полезное.md",
+    "C++/Knowledge.md",
     "C++/If it doesn't fucking work.md"
   ]
 }
