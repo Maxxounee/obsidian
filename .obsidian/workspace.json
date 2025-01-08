@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Useful.md",
+                "file": "git/Git Usage.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Useful.md",
+                "file": "git/Git Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Useful.md",
+                "file": "git/Git Usage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Useful.md"
+                "file": "git/Git Usage.md"
               }
             }
           }
@@ -176,7 +176,7 @@
     "Useful/Сохранение картинок.md",
     "Useful",
     "mysql/Useful.md",
-    "git/Useful.md",
+    "git/Git Usage.md",
     "git",
     "PHP/Knowledge.md",
     "mysql",
