@@ -1,56 +1,57 @@
 {
   "main": {
-    "id": "3512b98657aa5046",
+    "id": "5c9e0d35f0d712ee",
     "type": "split",
     "children": [
       {
-        "id": "a3d374a79a2c0a28",
+        "id": "ba7374584aaf6293",
         "type": "tabs",
         "children": [
           {
-            "id": "7e2e79978be4d031",
+            "id": "bbc25e41149d2012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Чтиво.md",
+                "file": "Сохранение картинок.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Чтиво"
-            }
-          },
-          {
-            "id": "1c44b8ec4cfc5ef2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чтиво.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Чтиво"
+              "title": "Сохранение картинок"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "8b76172733a80af9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2978ace41820d9f4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d650409c58eb1c80",
+    "id": "a5f4d24af5bf8f41",
     "type": "split",
     "children": [
       {
-        "id": "06fcef9033456fff",
+        "id": "b0967af4566278bf",
         "type": "tabs",
         "children": [
           {
-            "id": "87c7dcd8c2a90e67",
+            "id": "ae6bb9a1afb5ebf5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +63,7 @@
             }
           },
           {
-            "id": "1f1563d41909434b",
+            "id": "984c218a31acd65b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +80,7 @@
             }
           },
           {
-            "id": "36afb79e7df4d9f7",
+            "id": "36a90f5c3411cf87",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "5cb8ddf9eca360a4",
+    "id": "2b9badeeef69fe5f",
     "type": "split",
     "children": [
       {
-        "id": "5b439899a2647ed5",
+        "id": "056c64465fbc08b2",
         "type": "tabs",
         "children": [
           {
-            "id": "ca3feedf9d88d4fe",
+            "id": "c2367e80eca2b091",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Чтиво.md",
+                "file": "Сохранение картинок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Чтиво"
+              "title": "Backlinks for Сохранение картинок"
             }
           },
           {
-            "id": "b8c1596fc65d72bc",
+            "id": "4139f4d682f05926",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Чтиво.md",
+                "file": "Сохранение картинок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Чтиво"
+              "title": "Outgoing links from Сохранение картинок"
             }
           },
           {
-            "id": "df7a9c3a14a8dc8d",
+            "id": "680eaf4c3618a53e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,33 +150,23 @@
             }
           },
           {
-            "id": "d886739f6c558bc4",
+            "id": "acd2dce4d6cf9aec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Чтиво.md"
+                "file": "Сохранение картинок.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Чтиво"
-            }
-          },
-          {
-            "id": "47cc9f9efac3e0b1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Сохранение картинок"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +175,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1c44b8ec4cfc5ef2",
+  "active": "bbc25e41149d2012",
   "lastOpenFiles": [
-    "Полезное.md",
-    "Чтиво.md"
+    "Сохранение картинок.md"
   ]
 }
