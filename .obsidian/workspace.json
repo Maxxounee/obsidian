@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Git Usage.md",
+                "file": "Useful/Учить.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/Git Usage.md",
+                "file": "Useful/Учить.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/Git Usage.md",
+                "file": "Useful/Учить.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/Git Usage.md"
+                "file": "Useful/Учить.md"
               }
             }
           }
@@ -174,9 +174,10 @@
   "active": "afa2b80670ca5e4b",
   "lastOpenFiles": [
     "Useful/Сохранение картинок.md",
+    "Useful/Учить.md",
+    "git/Git Usage.md",
     "Useful",
     "mysql/Useful.md",
-    "git/Git Usage.md",
     "git",
     "PHP/Knowledge.md",
     "mysql",
