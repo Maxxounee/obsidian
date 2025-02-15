@@ -4,3 +4,6 @@
 * https://tympanus.net/codrops/2018/11/27/image-reveal-hover-effects/
 * https://tympanus.net/codrops/2018/10/31/animated-grids-layout/
 * https://tympanus.net/codrops/2023/01/25/crafting-a-dice-roller-with-three-js-and-cannon-es/
+
+https://thebookofshaders.com/02/?lan=ru
+https://editor.thebookofshaders.com/
