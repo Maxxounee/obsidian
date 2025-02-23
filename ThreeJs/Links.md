@@ -7,3 +7,4 @@
 
 https://thebookofshaders.com/02/?lan=ru
 https://editor.thebookofshaders.com/
+https://graphtoy.com/
