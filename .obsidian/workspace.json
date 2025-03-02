@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThreeJs/Основы шейдеров.md",
+                "file": "ThreeJs/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ThreeJs/Основы шейдеров.md",
+                "file": "ThreeJs/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ThreeJs/Основы шейдеров.md",
+                "file": "ThreeJs/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThreeJs/Основы шейдеров.md"
+                "file": "ThreeJs/Links.md"
               }
             }
           }
@@ -173,16 +173,19 @@
   },
   "active": "afa2b80670ca5e4b",
   "lastOpenFiles": [
+    "().md",
+    "ThreeJs/Links.md",
+    "NuxtVue/Чтиво.md",
+    "NuxtVue/Полезное.md",
+    "ThreeJs/Основы шейдеров.md",
     "python/numpy.md",
     "linux/Usage.md",
     "python/python.md",
     "python/torch.md",
     "python",
-    "ThreeJs/Основы шейдеров.md",
     "ThreeJs/Описание методов THREEJS.md",
     "ThreeJs/SHADERS Examples.md",
     "ThreeJs/Quick start.md",
-    "ThreeJs/Links.md",
     "ThreeJs/Knowledge.md",
     "C++/Knowledge.md",
     "C++/If it doesn't fucking work.md",
@@ -196,8 +199,6 @@
     "PHP/Knowledge.md",
     "mysql",
     "PHP",
-    "Animation/Links.md",
-    "NuxtVue/Полезное.md",
-    "NuxtVue/Чтиво.md"
+    "Animation/Links.md"
   ]
 }
