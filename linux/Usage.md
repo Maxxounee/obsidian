@@ -38,6 +38,7 @@ cat fileName.txt
 
 # Вывод определенного текста из файла
 cat fileName.txt | grep "Email" # Email: j.doe@example.com
+cat requirements.txt | grep torch # torch 2.4.5
 
 # Вывод первых n строк файла. По умолчанию выводит 10 строк
 # -n – количество строк
@@ -59,6 +60,8 @@ cp -r . /documents/test/
 # -f - не спрашивать подтверждение при удалении
 rm -rf ./test
 
+# Расположение файла, запускаемого командой (например, pip3)
+which pip3
 ```
 
 

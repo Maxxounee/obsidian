@@ -173,13 +173,19 @@
   },
   "active": "afa2b80670ca5e4b",
   "lastOpenFiles": [
+    "python/numpy.md",
+    "linux/Usage.md",
+    "python/python.md",
+    "python/torch.md",
+    "python",
+    "ThreeJs/Основы шейдеров.md",
+    "ThreeJs/Описание методов THREEJS.md",
+    "ThreeJs/SHADERS Examples.md",
+    "ThreeJs/Quick start.md",
     "ThreeJs/Links.md",
     "ThreeJs/Knowledge.md",
-    "ThreeJs/Основы шейдеров.md",
-    "ThreeJs/SHADERS Examples.md",
-    "ThreeJs/Описание методов THREEJS.md",
-    "ThreeJs/Quick start.md",
-    "linux/Usage.md",
+    "C++/Knowledge.md",
+    "C++/If it doesn't fucking work.md",
     "Useful/Учить.md",
     "linux",
     "Useful/Сохранение картинок.md",
@@ -190,10 +196,8 @@
     "PHP/Knowledge.md",
     "mysql",
     "PHP",
-    "C++/Knowledge.md",
     "Animation/Links.md",
     "NuxtVue/Полезное.md",
-    "NuxtVue/Чтиво.md",
-    "C++/If it doesn't fucking work.md"
+    "NuxtVue/Чтиво.md"
   ]
 }
