@@ -24,8 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Quick start.md",
+      "timestamp": 1741018792234
+    },
+    {
+      "filepath": "Описание методов THREEJS.md",
+      "timestamp": 1741018791301
+    },
+    {
       "filepath": "Links.md",
-      "timestamp": 1731572619987
+      "timestamp": 1741018737568
     }
   ],
   "bookmarkedFileStore": [],
