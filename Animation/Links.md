@@ -7,5 +7,6 @@
 * https://tympanus.net/Development/GridToSlider/
 * https://aristidebenoist.com/
 * https://paulethenriette.com/
+* [preloaders](https://magecdn.com/tools/svg-loaders)
 * КОРНЕР ДЕЛЕЙ + подсказка о сролле у указателя мыши https://www.paffi.it/
 * WEBGL переходы https://www.curtainsjs.com/
