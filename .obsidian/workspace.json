@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Knowledge.md",
+                "file": "python/numpy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d23132b5ecfdf85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/numpy.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/numpy.md",
+                "file": "python/python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "138106bc21c78b89",
@@ -160,17 +170,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1d45dc46547ae6c",
+  "active": "d5eb6ed2df9f991c",
   "lastOpenFiles": [
+    "python/Conda.md",
+    "python/torch.md",
+    "python/python.md",
+    "python/numpy.md",
+    "linux/Usage.md",
     "C++/Knowledge.md",
     "PHP/Knowledge.md",
-    "python/numpy.md",
     "ThreeJs/Основы шейдеров.md",
     "ThreeJs/Описание методов THREEJS.md",
     "ThreeJs/SHADERS Examples.md",
     "ThreeJs/Quick start.md",
     "mysql/Useful.md",
-    "linux/Usage.md",
     "Interview/Задачи.md",
     "Interview/Вопросы.md",
     "git/Git Usage.md",
@@ -181,8 +194,6 @@
     "().md",
     "NuxtVue/Чтиво.md",
     "NuxtVue/Полезное.md",
-    "python/python.md",
-    "python/torch.md",
     "python",
     "ThreeJs/Knowledge.md",
     "C++/If it doesn't fucking work.md",
