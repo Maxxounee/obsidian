@@ -378,4 +378,49 @@ transform = transforms.Compose(
 img = transform(Image.open('./assets/img/dog.jpg'))
 ```
 
-### torchvision.v2
+### torchvision.transforms.v2
+
+```python
+from torchvision import transforms  
+from torchvision.transforms import v2  
+  
+import numpy as np  
+import torch  
+  
+from PIL import Image  
+  
+img = np.array(Image.open('./assets/img/dog.jpg'))  
+  
+# Трансформация 1. Приведение к тензору  
+transform = v2.ToTensor()  
+  
+img_v2 = transform(img)  
+  
+# Трансформация 2. To Image. Приведение к tv_tensor (То же самое, что и tensor)  
+  
+transform = v2.ToImage()  
+  
+img_v2 = transform(Image.open('./assets/img/dog.jpg'))  
+  
+# Трансформация 3. Приведение к другому типу  
+# Scale сохранит нормализованные данные. Без него img будет иметь min 0 и max 255  
+transform = v2.ToDtype(torch.float32, scale=True)  
+  
+img_dtype_v2 = transform(img_v2)  
+  
+# Трансформация 4. Нормализация  
+  
+transform = v2.Normalize(mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5))  
+  
+img_norm_v2 = transform(img_dtype_v2)  
+  
+# Compose  
+  
+transform = v2.Compose(  
+    [  
+        v2.ToImage(),  
+        v2.ToDtype(torch.float32, scale=True),  
+        v2.Normalize(mean=(0.5, 0.5, 0.5), std=(0.5, 0.5, 0.5))  
+    ]  
+)
+```
