@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Conda.md",
+                "file": "ThreeJs/Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Conda.md",
+                "file": "ThreeJs/Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/Conda.md",
+                "file": "ThreeJs/Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/Conda.md"
+                "file": "ThreeJs/Links.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "d5eb6ed2df9f991c",
   "lastOpenFiles": [
+    "Animation/Links.md",
+    "python/Conda.md",
     "python/PIL (Python Imaging Library).md",
     "python/python.md",
     "C++/If it doesn't fucking work.md",
@@ -156,7 +158,6 @@
     "ThreeJs/Quick start.md",
     "ThreeJs/Описание методов THREEJS.md",
     "ThreeJs/Links.md",
-    "python/Conda.md",
     "_scratch/**Комментарии к сайту K-City от 10.03.2025**.md",
     "NuxtVue/Полезное.md",
     "_scratch",
@@ -169,7 +170,6 @@
     "Interview/Задачи.md",
     "Interview/Вопросы.md",
     "git/Git Usage.md",
-    "Animation/Links.md",
     "Useful/Учить.md",
     "Useful/Сохранение картинок.md",
     "().md",
