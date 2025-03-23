@@ -8,5 +8,6 @@
 * https://aristidebenoist.com/
 * https://paulethenriette.com/
 * [preloaders](https://magecdn.com/tools/svg-loaders)
+* [Автонабор текста](https://tympanus.net/codrops/2024/06/19/hover-animations-for-terminal-like-typography/)
 * КОРНЕР ДЕЛЕЙ + подсказка о сролле у указателя мыши https://www.paffi.it/
 * WEBGL переходы https://www.curtainsjs.com/
