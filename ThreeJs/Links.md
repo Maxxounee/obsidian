@@ -10,6 +10,16 @@
 * [Сфера с частицами](https://codepen.io/VoXelo/pen/qEWJvEr)
 * [threejs toys](https://github.com/klevron/threejs-toys)
 * [Procedural Portal Effect](https://codepen.io/VoXelo/pen/ZYzNvVz)
+* [3d лего](https://github.com/ULuIQ12/codrops-batchedmesh)
+* [Появление изображений из пикселей](https://tympanus.net/Development/RevealingWebGLImages/)
+* [Прикольная идея](https://leseldissey.isseymiyakeparfums.com/)
+* [бесконечная прокрутка](https://www.iheartcomix.com/)
+* [ховеры](https://fiddle.digital/)
+
+
+
+
+
 
 
 * [The book of shaders](https://thebookofshaders.com/02/?lan=ru)
