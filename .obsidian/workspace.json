@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThreeJs/Links.md",
+                "file": "regex/Regex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "Regex"
             }
           }
         ],
@@ -194,8 +194,10 @@
   },
   "active": "7a6628da710dc296",
   "lastOpenFiles": [
-    "Animation/Links.md",
     "ThreeJs/Links.md",
+    "regex/Regex.md",
+    "Untitled",
+    "Animation/Links.md",
     "python/numpy.md",
     "ThreeJs/Quick start.md",
     "ThreeJs/Основы шейдеров.md",
