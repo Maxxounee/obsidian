@@ -15,6 +15,9 @@
 * [Прикольная идея](https://leseldissey.isseymiyakeparfums.com/)
 * [бесконечная прокрутка](https://www.iheartcomix.com/)
 * [ховеры](https://fiddle.digital/)
+* [Поле шаров](https://codepen.io/hellobrophy/pen/rKqYRo)
+* [Кривые линии движутся](https://codepen.io/Thibka/pen/dvMOyw)
+
 
 
 
