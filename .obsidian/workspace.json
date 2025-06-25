@@ -4,53 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ec211b3e0040bb84",
+        "id": "e5169675f3b5c036",
         "type": "tabs",
         "children": [
           {
-            "id": "d5eb6ed2df9f991c",
+            "id": "628046613e4b5e3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Knowledge.md",
+                "file": "python/Conda.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Knowledge"
+              }
             }
           },
           {
-            "id": "b1d45dc46547ae6c",
+            "id": "11a03e2e19f6065c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ThreeJs/Links.md",
+                "file": "3d/Конспект курса smile.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
-            "id": "7a6628da710dc296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ThreeJs/Links.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Links"
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,11 +51,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -88,9 +67,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -98,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ThreeJs/Links.md",
+                "file": "3d/Конспект курса smile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,9 +106,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Links"
+              }
             }
           },
           {
@@ -142,12 +115,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ThreeJs/Links.md",
+                "file": "3d/Конспект курса smile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Links"
+              }
             }
           },
           {
@@ -158,9 +129,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -169,10 +138,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ThreeJs/Links.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Links"
+                "file": "3d/Конспект курса smile.md"
+              }
             }
           }
         ]
@@ -192,36 +159,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a6628da710dc296",
+  "active": "11a03e2e19f6065c",
   "lastOpenFiles": [
-    "Animation/Links.md",
-    "ThreeJs/Links.md",
+    "3d/Blender.md",
+    "3d/Конспект курса smile.md",
+    "Поездка/Поездка.md",
     "python/numpy.md",
-    "ThreeJs/Quick start.md",
+    "python/torch.md",
+    "python/Conda.md",
+    "3d",
+    "python/Нейросети.md",
+    "Поездка",
+    "python/python.md",
+    "python/assets",
+    "python/assets/Pasted image 20250403143549.png",
+    "ThreeJs/Задачи с thebookofshaders.com.md",
     "ThreeJs/Основы шейдеров.md",
+    "ThreeJs/Links.md",
+    "ThreeJs/assets/Pasted image 20250323160130.png",
+    "ThreeJs/assets/Pasted image 20250323155026.png",
+    "ThreeJs/assets",
+    "ThreeJs/assets/Pasted image 20250323155319.png",
+    "ThreeJs/assets/Pasted image 20250323155234.png",
+    "ThreeJs/Quick start.md",
+    "ThreeJs/Knowledge.md",
+    "Animation/Links.md",
+    "python/PIL (Python Imaging Library).md",
+    "C++/If it doesn't fucking work.md",
+    "ThreeJs/Описание методов THREEJS.md",
+    "_scratch/**Комментарии к сайту K-City от 10.03.2025**.md",
+    "NuxtVue/Полезное.md",
+    "_scratch",
+    "linux/Usage.md",
     "C++/Knowledge.md",
     "PHP/Knowledge.md",
-    "ThreeJs/Описание методов THREEJS.md",
-    "ThreeJs/SHADERS Examples.md",
     "mysql/Useful.md",
-    "linux/Usage.md",
     "Interview/Задачи.md",
     "Interview/Вопросы.md",
     "git/Git Usage.md",
-    "Useful/Учить.md",
-    "Useful/Сохранение картинок.md",
-    "().md",
-    "NuxtVue/Чтиво.md",
-    "NuxtVue/Полезное.md",
-    "python/python.md",
-    "python/torch.md",
     "python",
-    "ThreeJs/Knowledge.md",
-    "C++/If it doesn't fucking work.md",
     "linux",
     "Useful",
     "git",
-    "mysql",
-    "PHP"
+    "mysql"
   ]
 }
