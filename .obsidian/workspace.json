@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3d/Конспект курса smile.md",
+                "file": "3d/Конспект курса smile 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3d/Конспект курса smile.md",
+                "file": "3d/Конспект курса smile 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3d/Конспект курса smile.md",
+                "file": "3d/Конспект курса smile 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3d/Конспект курса smile.md"
+                "file": "3d/Конспект курса smile 1.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11a03e2e19f6065c",
+  "active": "e874cdfb21f11b88",
   "lastOpenFiles": [
     "3d/Blender.md",
-    "3d/Конспект курса smile.md",
+    "3d/Конспект курса smile 1.md",
     "Поездка/Поездка.md",
     "python/numpy.md",
     "python/torch.md",
