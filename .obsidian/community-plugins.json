@@ -1,3 +1,9 @@
 [
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-functionplot",
+  "obsidian-latex-suite",
+  "quick-latex",
+  "graphs",
+  "plot-vectors-graphs",
+  "hotkeyer-plugin"
 ]

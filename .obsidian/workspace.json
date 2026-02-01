@@ -4,191 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "e5169675f3b5c036",
+        "id": "cf5ea8519af05651",
         "type": "tabs",
         "children": [
           {
-            "id": "628046613e4b5e3b",
+            "id": "5e2b0425870e672a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Conda.md",
+                "file": "ML/Math/Векторы.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "11a03e2e19f6065c",
+            "id": "bd7784c5f916796a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3d/Orca Slicer.md",
+                "file": "ML/Math/Plugins.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "433db23e881ca4c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Fusion 360.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ad42968bdb96877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Orca Slicer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4ff4669038a589b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Fusion 360.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7b4c32436b4ac9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Blender Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f546999c975cf619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Blender.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cf2fab706df41a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Orca Slicer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ede9aa522d4385f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Orca Slicer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "847b87f0fbe70268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Борьба с warping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20c2f076726edaf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Борьба с warping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe0cfee2f3aaee49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Разные наблюдения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26f59685fa529a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/lamp 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df025f0023aa51c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/lamp 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97fa1fc224aea36c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3d/Моделирование резьбы.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "138106bc21c78b89",
@@ -254,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3d/Моделирование резьбы.md",
+                "file": "ML/Math/Векторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3d/Моделирование резьбы.md",
+                "file": "ML/Math/Векторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3d/Моделирование резьбы.md"
+                "file": "ML/Math/Векторы.md"
               }
             }
           }
@@ -315,48 +162,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97fa1fc224aea36c",
+  "active": "5e2b0425870e672a",
   "lastOpenFiles": [
-    "3d/lamp 2.md",
-    "3d/Моделирование резьбы.md",
-    "3d/Точные рахмеры.md",
-    "3d/Blender.md",
-    "3d/Blender Models.md",
-    "3d/Orca Slicer.md",
-    "3d/Борьба с warping.md",
-    "3d/Конспект курса smile 2.md",
-    "3d/Модель 1.md",
-    "3d/Разные наблюдения.md",
-    "3d/Настройки Пластиков.md",
-    "3d/lamp 1.md",
-    "3d/Конспект курса smile 1.md",
-    "3d/Замена fusion - Onshape.md",
-    "Модель 1",
-    "3d/Fusion 360.md",
-    "Поездка/Поездка.md",
-    "python/numpy.md",
-    "python/torch.md",
-    "python/Conda.md",
-    "3d",
-    "python/Нейросети.md",
-    "Поездка",
-    "python/python.md",
-    "python/assets",
-    "python/assets/Pasted image 20250403143549.png",
-    "ThreeJs/Задачи с thebookofshaders.com.md",
+    "ML/Math/Векторы.md",
+    "ML/assets/vector/5-3.png",
+    "ML/assets/vector/5-2.png",
+    "ML/assets/vector/5-1.png",
+    "ML/assets/vector/where-i-and-j-lands.png",
+    "ML/Math/Plugins.md",
+    "ML/assets/vector/4-5.png",
+    "ML/assets/vector/4-6.png",
+    "ML/assets/vector/4-3.png",
+    "ML/assets/vector/4-4.png",
+    "ML/assets/vector/Screenshot 2026-01-31 at 19.35.16 1.png",
+    "ML/assets/vector/4-2.png",
     "ThreeJs/Основы шейдеров.md",
-    "ThreeJs/Links.md",
-    "ThreeJs/assets/Pasted image 20250323160130.png",
-    "ThreeJs/assets/Pasted image 20250323155026.png",
-    "ThreeJs/assets",
-    "ThreeJs/assets/Pasted image 20250323155319.png",
-    "ThreeJs/assets/Pasted image 20250323155234.png",
+    "ThreeJs/Задачи с thebookofshaders.com.md",
     "ThreeJs/Quick start.md",
+    "ThreeJs/Links.md",
     "ThreeJs/Knowledge.md",
-    "_scratch",
-    "python",
-    "linux",
-    "Useful",
-    "git"
+    "NuxtVue/Чтиво.md",
+    "NuxtVue/Полезное.md",
+    "mysql/Useful.md",
+    "ML/assets/vector",
+    "ML/assets",
+    "python/Нейросети.md",
+    "python/torch.md",
+    "python/python.md",
+    "python/PIL (Python Imaging Library).md",
+    "python/numpy.md",
+    "python/Conda.md",
+    "linux/Usage.md",
+    "C++/If it doesn't fucking work.md",
+    "C++/Knowledge.md",
+    "_templates/Graph vector AB.md",
+    "Useful/Учить.md",
+    "Useful/Сохранение картинок.md",
+    "ThreeJs/Описание методов THREEJS.md",
+    "ML/Math/test.md",
+    "_templates",
+    "3d/Blender Models.md",
+    "Excalidraw",
+    "ML/Math",
+    "ML",
+    "Swift",
+    "Модель 1",
+    "3d",
+    "Поездка"
   ]
 }

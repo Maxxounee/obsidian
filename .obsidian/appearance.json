@@ -1,1 +1,6 @@
-{}
+{
+  "baseFontSize": 24,
+  "enabledCssSnippets": [
+    "snippets_css"
+  ]
+}

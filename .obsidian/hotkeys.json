@@ -1,0 +1,18 @@
+{
+  "sample-plugin:insert-selection-in-mark-tag": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "M"
+    }
+  ],
+  "hotkeyer-plugin:hotkeyer-add-mark-tag": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "M"
+    }
+  ]
+}

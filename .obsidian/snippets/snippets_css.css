@@ -1,0 +1,89 @@
+* {
+
+    --yellow: #edd607;
+    --violet: #8A2BE2;
+    --peach: #ffad92;
+
+    --blue: #444c5c;
+    --coral: #ce5a57;
+    --ocean: #78a5a3;
+    --warm: #e1b16a;
+
+    --egg: #a4cabc;
+    --nectar: #eab364;
+    --toskanian-red: #b2473e;
+    --olive: #acbd78;
+
+    --honey: #fcc875;
+    --rose: #e38b75;
+
+    --ginger: #d35c37;
+    --hazelnut: #bf9a77;
+    --sky: #97b8c2;
+
+    --blue-green: #5f968e;
+    --fade-red: #e05858;
+    --mint: #bfdccf;
+    --oatmeal: #d5c9b1;
+
+    --pink: #e4535e;
+    --orange: #e38533;
+    --yellow-pencil: #faae3d;
+    --wood: #81715e;
+
+}
+
+body {
+    --h2-color: var(--pink);
+    --h3-color: var(--orange);
+    --h4-color: var(--yellow-pencil);
+    --h5-color: orange;
+    --h6-color: pink;
+
+    --user-custom-width: 55rem !important;
+    --file-line-width: var(--user-custom-width) ;
+    --content-max-width: 100rem !important;
+    --content-base-width: var(--user-custom-width);
+}
+
+.cm-sizer {
+    /*margin: 5% !important;*/
+}
+
+h2 {
+    text-align: center !important;
+}
+
+mark {
+    font-style: italic;
+    background-color: unset !important;
+    color: var(--orange) !important;
+}
+
+a {
+    /*color: var(--wood) !important;*/
+    font-style: italic;
+}
+
+center {
+    font-style: italic;
+    /*border-left: 4px solid var(--orange);*/
+    /*padding: 0 6px;*/
+    color: var(--oatmeal);
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 4px solid var(--orange);
+    padding: 0 6px;
+    text-align: center;
+    margin: 0;
+}
+
+caption {
+    font-style: italic;
+    border-left: 4px solid var(--orange);
+    padding: 0 6px;
+    text-align: center;
+    margin: 0;
+}
