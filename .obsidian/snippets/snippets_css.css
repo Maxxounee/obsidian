@@ -1,36 +1,12 @@
 * {
-
-    --yellow: #edd607;
-    --violet: #8A2BE2;
-    --peach: #ffad92;
-
-    --blue: #444c5c;
-    --coral: #ce5a57;
-    --ocean: #78a5a3;
-    --warm: #e1b16a;
-
-    --egg: #a4cabc;
-    --nectar: #eab364;
-    --toskanian-red: #b2473e;
-    --olive: #acbd78;
-
-    --honey: #fcc875;
-    --rose: #e38b75;
-
-    --ginger: #d35c37;
-    --hazelnut: #bf9a77;
-    --sky: #97b8c2;
-
-    --blue-green: #5f968e;
-    --fade-red: #e05858;
-    --mint: #bfdccf;
-    --oatmeal: #d5c9b1;
+    --obsidian-bg:#1E1E1E;
 
     --pink: #e4535e;
     --orange: #e38533;
+    --orange-t: rgba(227, 133, 51, 0.05);
     --yellow-pencil: #faae3d;
     --wood: #81715e;
-
+    --oatmeal: #d5c9b1;
 }
 
 body {
@@ -50,9 +26,6 @@ body {
     /*margin: 5% !important;*/
 }
 
-h2 {
-    text-align: center !important;
-}
 
 mark {
     font-style: italic;
@@ -61,7 +34,6 @@ mark {
 }
 
 a {
-    /*color: var(--wood) !important;*/
     font-style: italic;
 }
 
@@ -77,6 +49,7 @@ blockquote {
     border-left: 4px solid var(--orange);
     padding: 0 6px;
     text-align: center;
+    background: linear-gradient(90deg, var(--orange-t), var(--obsidian-bg));
     margin: 0;
 }
 
@@ -88,6 +61,9 @@ caption {
     margin: 0;
 }
 
+/*
+![[../imgsrc.png|center|500]]
+*/
 img[alt*="center"] {
     display: block;
     margin-left: auto;
