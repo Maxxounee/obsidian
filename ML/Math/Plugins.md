@@ -34,6 +34,44 @@ $$
 \end{bmatrix}
 
 $$
+
+### Примеры:
+
+Запись в одну строку:
+$$ \begin{align}  \\
+f(x)&=sin(x) \qquad & 
+f(0)=0 \\ f’(x)&=cos(x) \qquad &
+f’(0)=1 \\ \end{align} $$
+Выравнивание с помощью символа &:
+$$
+\begin{align}
+
+
+ 2x+5y+3z&=-3 \\ 
+4x+0y+8z&=0 \\ 
+1x+3y+0z&= 2 
+\end{align}
+$$
+
+$$\begin{align}
+
+\mathit{Tanget\ at} \left(-\frac{1}{2}, \frac{1}{4}\right) \qquad &&\text{Point:} \qquad &&&(-1/2,1/4)\\
+
+&&\ \text{Slope:} \qquad &&&m=2x=2(-1/2)=-1
+
+\end{align}$$
+
+
+$$
+\begin{aligned}
+&\text{Point:} &(-1/2, 1/4) \\
+&\text{Slope:} &m = 2x = 2(-1/2) = -1
+
+\end{aligned}
+$$
+
+
+
 ## Graphs
 
 Шаблоны сохранены в \_templates.

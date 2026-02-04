@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Math/Векторы.md",
+                "file": "ML/Math/Суть линейной алгебры.md",
                 "mode": "source",
                 "source": false
               },
@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Learn.md",
+                "file": "ML/Math/Суть линейной алгебры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Learn.md",
+                "file": "ML/Math/Суть линейной алгебры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Learn.md"
+                "file": "ML/Math/Суть линейной алгебры.md"
               }
             }
           }
@@ -175,21 +174,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aae8e8d6f218074",
+  "active": "5e2b0425870e672a",
   "lastOpenFiles": [
-    "ML/Math/Векторы.md",
     "ML/Learn.md",
-    "ML/assets/vector/6-10.png",
-    "ML/assets/vector/6-9.png",
-    "ML/assets/vector/6-8.png",
-    "ML/assets/vector/6-7.png",
-    "ML/assets/vector/6-6.png",
-    "ML/assets/vector/6-5.png",
-    "ML/assets/vector/6-4.png",
-    "ML/assets/vector/6-3.png",
-    "ML/assets/vector/6-2.png",
+    "ML/Math/Суть линейной алгебры.md",
+    "ML/assets/3blue1brown/7-6.png",
+    "ML/assets/3blue1brown/7-5.png",
     "ML/Math/Plugins.md",
-    "ML/assets/vector/6-1.png",
+    "ML/assets/3blue1brown/7-5.png",
+    "ML/assets/3blue1brown/7-4.png",
+    "ML/assets/3blue1brown/7-3.png",
+    "ML/assets/3blue1brown/7-2.png",
+    "ML/assets/3blue1brown/7-1.png",
+    "ML/assets/3blue1brown/6-10.png",
+    "ML/assets/3blue1brown/6-9.png",
+    "ML/assets/3blue1brown/6-8.png",
     "ThreeJs/Основы шейдеров.md",
     "ThreeJs/Задачи с thebookofshaders.com.md",
     "ThreeJs/Quick start.md",
@@ -198,7 +197,7 @@
     "NuxtVue/Чтиво.md",
     "NuxtVue/Полезное.md",
     "mysql/Useful.md",
-    "ML/assets/vector",
+    "ML/assets/3blue1brown",
     "ML/assets",
     "python/Нейросети.md",
     "python/torch.md",
@@ -215,7 +214,6 @@
     "ThreeJs/Описание методов THREEJS.md",
     "ML/Math/test.md",
     "_templates",
-    "3d/Blender Models.md",
     "Excalidraw",
     "ML/Math",
     "ML",
