@@ -34,18 +34,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1aae8e8d6f218074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -174,21 +162,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e2b0425870e672a",
+  "active": "e874cdfb21f11b88",
   "lastOpenFiles": [
-    "ML/assets/3blue1brown/10-3.png",
-    "ML/Math/Суть линейной алгебры.md",
-    "ML/assets/3blue1brown/10-2.png",
-    "ML/assets/3blue1brown/10-1.png",
-    "ML/assets/3blue1brown/3-2.png",
-    "ML/Learn.md",
-    "ML/assets/3blue1brown/9-12.png",
-    "ML/assets/3blue1brown/9-11.png",
-    "ML/assets/3blue1brown/9-10.png",
-    "ML/assets/3blue1brown/9-9.png",
-    "ML/assets/3blue1brown/9-8.png",
-    "ML/assets/3blue1brown/9-7.png",
+    "ML/assets/3blue1brown/13-6.png",
     "ML/Math/Plugins.md",
+    "ML/Math/Суть линейной алгебры.md",
+    "ML/assets/3blue1brown/13-5.png",
+    "ML/assets/3blue1brown/13-5.png",
+    "ML/assets/3blue1brown/13-4.png",
+    "ML/assets/3blue1brown/13-3.png",
+    "ML/assets/3blue1brown/13-3.png",
+    "ML/assets/3blue1brown/13-2.png",
+    "ML/assets/3blue1brown/13-1.png",
+    "ML/assets/3blue1brown/12-9.png",
+    "ML/assets/3blue1brown/12-9.png",
+    "ML/assets/3blue1brown/12-8.png",
+    "ML/Learn.md",
     "ThreeJs/Основы шейдеров.md",
     "ThreeJs/Задачи с thebookofshaders.com.md",
     "ThreeJs/Quick start.md",
