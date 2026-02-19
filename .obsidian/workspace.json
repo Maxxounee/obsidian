@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Math/Суть линейной алгебры.md",
+                "file": "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
                 "mode": "source",
                 "source": false
               },
@@ -28,14 +28,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Math/Plugins.md",
+                "file": "ML/useful/Plugins.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "13b0fb99cfb8f284",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/useful/Learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f131244abdc06dc6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Math/Математика. Разное/Метод Гаусса. Приведение матрицы к ступенчатому виду.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Math/Суть линейной алгебры.md",
+                "file": "ML/useful/Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Math/Суть линейной алгебры.md",
+                "file": "ML/useful/Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Math/Суть линейной алгебры.md"
+                "file": "ML/useful/Learn.md"
               }
             }
           }
@@ -164,20 +193,23 @@
   },
   "active": "e874cdfb21f11b88",
   "lastOpenFiles": [
-    "ML/assets/3blue1brown/13-6.png",
-    "ML/Math/Plugins.md",
-    "ML/Math/Суть линейной алгебры.md",
-    "ML/assets/3blue1brown/13-5.png",
-    "ML/assets/3blue1brown/13-5.png",
-    "ML/assets/3blue1brown/13-4.png",
-    "ML/assets/3blue1brown/13-3.png",
-    "ML/assets/3blue1brown/13-3.png",
-    "ML/assets/3blue1brown/13-2.png",
-    "ML/assets/3blue1brown/13-1.png",
-    "ML/assets/3blue1brown/12-9.png",
-    "ML/assets/3blue1brown/12-9.png",
-    "ML/assets/3blue1brown/12-8.png",
-    "ML/Learn.md",
+    "ML/Math/Математика. Разное/Метод Гаусса. Приведение матрицы к ступенчатому виду.md",
+    "ML/useful/Learn.md",
+    "ML/useful/Plugins.md",
+    "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
+    "ML/Math/Линейная алгебра. Разное.md",
+    "ML/Math/Математика. Разное",
+    "ML/useful",
+    "ML/assets/3blue1brown/16-1.png",
+    "ML/assets/3blue1brown/15-4.png",
+    "ML/assets/3blue1brown/15-4.png",
+    "ML/assets/3blue1brown/15-3.png",
+    "ML/assets/3blue1brown/15-2.png",
+    "ML/assets/3blue1brown/15-1.png",
+    "ML/assets/3blue1brown/14-13.png",
+    "ML/assets/3blue1brown/14-12.png",
+    "ML/assets/3blue1brown/14-11.png",
+    "ML/assets/3blue1brown/14-10.png",
     "ThreeJs/Основы шейдеров.md",
     "ThreeJs/Задачи с thebookofshaders.com.md",
     "ThreeJs/Quick start.md",
@@ -201,14 +233,11 @@
     "Useful/Учить.md",
     "Useful/Сохранение картинок.md",
     "ThreeJs/Описание методов THREEJS.md",
-    "ML/Math/test.md",
     "_templates",
     "Excalidraw",
     "ML/Math",
     "ML",
     "Swift",
-    "Модель 1",
-    "3d",
-    "Поездка"
+    "Модель 1"
   ]
 }

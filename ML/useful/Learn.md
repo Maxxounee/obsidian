@@ -1,11 +1,36 @@
+## Полезные каналы
+
+1. [Математика без Ху%!ни. Sergej Kuts](https://www.youtube.com/@SergejKuts
+
+___
+
+## RoadMap Alexandr Lokis
+
 [Список основан на видео](https://www.youtube.com/watch?v=pzp_V4VpIMU)
+
 ### Математика:
 
 - [ ] Линейная алгебра
-	- [ ] Курс от [3Blue1Brown](https://www.youtube.com/watch?v=cJslkj9_wyg)
-	- [ ] Линейные зависимости
-	- [ ] Метод Гаусса
-	- [ ] Приведение матрицы к ступенчатому виду
+	- [x] Курс от [3Blue1Brown](https://www.youtube.com/watch?v=cJslkj9_wyg)
+		- [x] 1
+		- [x] 2
+		- [x] 3
+		- [x] 4
+		- [x] 5
+		- [x] 6
+		- [x] 7
+		- [x] 8
+		- [x] 9
+		- [x] 10
+		- [x] 11
+		- [x] 12
+		- [x] 13
+		- [x] 14
+		- [x] 15
+		- [x] 16
+	- [x] Линейные зависимости
+	- [x] Метод Гаусса
+	- [x] Приведение матрицы к ступенчатому виду
 	- [ ] Tensor
 - [ ] Математический анализ:
 	- [ ] Функция
@@ -79,3 +104,7 @@
 
 
 
+
+## RoadMap 2
+
+Так же разобрать темы из видео: https://www.youtube.com/watch?v=vPktYJ4_Q7Q

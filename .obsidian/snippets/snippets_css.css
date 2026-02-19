@@ -46,8 +46,9 @@ center {
 
 blockquote {
     font-style: italic;
+    border: 1px solid var(--orange-t);
     border-left: 4px solid var(--orange);
-    padding: 0 6px;
+    padding: 6px 6px 12px;
     text-align: center;
     background: linear-gradient(90deg, var(--orange-t), var(--obsidian-bg));
     margin: 0;
