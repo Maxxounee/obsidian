@@ -36,20 +36,45 @@
             }
           },
           {
-            "id": "1886f7092016e775",
+            "id": "2dd512dde99134ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Math/Математика. Разное/Градиент, частные производные.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c97b0a97c07613cc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Math/Математика. Разное/Функция, производная, градиент.md",
+                "file": "ML/Math/Математика. Разное/Лекции MLinside/Предел и производная.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "279b53bcf7a26022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/useful/Плагины и символы.md",
+                "file": "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/useful/Плагины и символы.md",
+                "file": "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/useful/Плагины и символы.md"
+                "file": "ML/Math/Суть линейной алгебры 3Blue1Brown.md"
               }
             }
           }
@@ -176,28 +201,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd7784c5f916796a",
+  "active": "279b53bcf7a26022",
   "lastOpenFiles": [
-    "ML/useful/Learn.md",
-    "ML/Math/Математика. Разное/Функция, производная, градиент.md",
+    "ML/Math/Суть математического анализа 3Blue1Brown.md",
+    "ML/Math/Математика. Разное/Функция, производная, первообразная, интеграл.md",
+    "ML/Math/Математика. Разное/Лекции MLinside/Предел и производная.md",
+    "ML/Math/Математика. Разное/Градиент, частные производные.md",
     "ML/useful/Плагины и символы.md",
+    "ML/useful/Learn.md",
+    "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
+    "ML/assets/math/mlinside/1-1.png",
+    "ML/assets/math/mlinside",
+    "ML/Math/Математика. Разное/Лекции MLinside.md",
+    "ML/Math/Математика. Разное/Лекции MLinside",
+    "ML/Math/Лекции MLinside.md",
+    "ML/assets/math/градиент/1-1.png",
+    "ML/assets/math/градиент/1-1.png",
+    "ML/assets/math/градиент/1-1.png",
+    "ML/assets/math/градиент",
+    "ML/assets/math",
+    "ML/assets/math-func/1-12.png",
+    "ML/assets/math-func/1-11.png",
+    "ML/assets/math-func/1-10.png",
+    "ML/assets/math-func/1-9.png",
     "ML/assets/math-func/1-8.png",
     "ML/assets/math-func/1-7.png",
-    "ML/assets/math-func/1-5.png",
-    "ML/assets/math-func/1-6.png",
-    "ML/assets/math-func/1-4.png",
-    "ML/assets/math-func/1-3.png",
-    "ML/assets/math-func/1-2.png",
     "ML/Math/Математика. Разное/Метод Гаусса. Приведение матрицы к ступенчатому виду.md",
-    "ML/assets/math-func/1-1.png",
     "ML/assets/math-func",
     "Поездка/Поездка.md",
-    "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
     "ML/Math/Линейная алгебра. Разное.md",
     "ML/Math/Математика. Разное",
     "ML/useful",
-    "ML/assets/3blue1brown/16-1.png",
-    "ML/assets/3blue1brown/15-4.png",
     "ThreeJs/Основы шейдеров.md",
     "ThreeJs/Задачи с thebookofshaders.com.md",
     "ThreeJs/Quick start.md",
@@ -213,15 +247,6 @@
     "python/python.md",
     "python/PIL (Python Imaging Library).md",
     "python/numpy.md",
-    "python/Conda.md",
-    "linux/Usage.md",
-    "C++/If it doesn't fucking work.md",
-    "C++/Knowledge.md",
-    "_templates/Graph vector AB.md",
-    "_templates",
-    "Excalidraw",
-    "ML/Math",
-    "ML",
-    "Swift"
+    "_templates"
   ]
 }
