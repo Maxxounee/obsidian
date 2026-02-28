@@ -3,6 +3,11 @@
 1. [Математика без Ху%!ни. Sergej Kuts](https://www.youtube.com/@SergejKuts)
 
 ___
+## Заценить каналы
+
+* [Вышка онлайн. "+- 10 минут"](https://www.youtube.com/watch?v=sE69PrSw4P4)
+
+___
 
 ## RoadMap Alexandr Lokis
 

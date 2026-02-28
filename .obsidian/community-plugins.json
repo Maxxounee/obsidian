@@ -5,5 +5,7 @@
   "quick-latex",
   "graphs",
   "plot-vectors-graphs",
-  "hotkeyer-plugin"
+  "hotkeyer-plugin",
+  "customizable-menu",
+  "highlightr-plugin"
 ]
