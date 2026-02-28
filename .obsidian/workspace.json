@@ -48,45 +48,21 @@
             }
           },
           {
-            "id": "c97b0a97c07613cc",
+            "id": "03c2610adf93d3a7",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Math/Математика. Разное/Лекции MLinside (хуета)/Предел и производная.md",
+                "file": "ML/Math/Книга \"Статистика и котики\".md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a5f5955d1b8d7467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Math/Математика. Разное/Градиент, частные производные.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03c2610adf93d3a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Python/Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5,
-    "collapsed": true
+    "width": 483.5
   },
   "right": {
     "id": "138106bc21c78b89",
@@ -153,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Python/Methods.md",
+                "file": "ML/Math/Книга \"Статистика и котики\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Python/Methods.md",
+                "file": "ML/Math/Книга \"Статистика и котики\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Python/Methods.md"
+                "file": "ML/Math/Книга \"Статистика и котики\".md"
               }
             }
           }
@@ -214,22 +189,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e874cdfb21f11b88",
+  "active": "03c2610adf93d3a7",
   "lastOpenFiles": [
-    "ML/useful/Плагины и символы.md",
+    "ML/assets/stat-and-cat/06.png",
+    "ML/Math/Книга \"Статистика и котики\".md",
+    "ML/assets/stat-and-cat/05.png",
+    "ML/assets/stat-and-cat/04.png",
+    "ML/assets/stat-and-cat/03.jpg",
+    "ML/assets/stat-and-cat/02.jpg",
+    "ML/assets/stat-and-cat/01.jpg",
+    "ML/assets/stat-and-cat/IMG_6834 2.heic",
+    "ML/assets/stat-and-cat/IMG_6834 1.heic",
+    "ML/assets/stat-and-cat/IMG_6834.heic",
+    "ML/Python/Methods.md",
     "ML/useful/Learn.md",
     "ML/Math/Математика. Разное/Градиент, частные производные.md",
-    "ML/Python/Methods.md",
-    "ML/Math/Книга \"Статистика и котики\".md",
+    "ML/Math/Математика. Разное/Лекции MLinside (хуета)/Предел и производная.md",
+    "ML/useful/Плагины и символы.md",
     "ML/Python",
-    "ML/assets/stat-and-cat/01.jpg",
     "ML/assets/stat-and-cat",
     "ML/Math/Суть математического анализа 3Blue1Brown.md",
     "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
     "ML/assets/3blue1brown/calcus",
     "ML/Math/Математика. Разное/Функция, производная, первообразная, интеграл.md",
     "ML/Math/Математика. Разное/Метод Гаусса. Приведение матрицы к ступенчатому виду.md",
-    "ML/Math/Математика. Разное/Лекции MLinside (хуета)/Предел и производная.md",
     "ML/assets/math/mlinside/1-1.png",
     "ML/assets/math/mlinside",
     "ML/Math/Математика. Разное/Лекции MLinside.md",
@@ -240,16 +223,8 @@
     "ML/assets/math/градиент/1-1.png",
     "ML/assets/math/градиент",
     "ML/assets/math",
-    "ML/assets/math-func/1-12.png",
-    "ML/assets/math-func/1-11.png",
-    "ML/assets/math-func/1-10.png",
-    "ML/assets/math-func/1-9.png",
-    "ML/assets/math-func/1-8.png",
-    "ML/assets/math-func",
     "Поездка/Поездка.md",
     "ML/Math/Линейная алгебра. Разное.md",
-    "ML/Math/Математика. Разное",
-    "ML/useful",
     "ThreeJs/Основы шейдеров.md",
     "ThreeJs/Задачи с thebookofshaders.com.md",
     "ThreeJs/Quick start.md",
@@ -260,7 +235,6 @@
     "mysql/Useful.md",
     "python/Нейросети.md",
     "python/torch.md",
-    "python/python.md",
-    "python/PIL (Python Imaging Library).md"
+    "python/python.md"
   ]
 }

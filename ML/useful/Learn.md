@@ -57,7 +57,7 @@ ___
 - [ ] Numpy
 - [ ] Pandas
 - [ ] PyTorch (на потом)
-- [ ] polars/dask (на потом
+- [ ] polars/dask (на потом)
 
 ### ML
 
