@@ -28,7 +28,8 @@ body {
 .cm-line,
 .cm-link,
 center,
-.inline-title {
+.inline-title,
+table {
     font-family: "JetBrains Mono";
 }
 
@@ -100,8 +101,8 @@ thead th:first-child {
 }
 
 div.cm-embed-block.cm-table-widget.markdown-rendered {
-    width: 120%;
-    margin-left: -10% !important;
+    /*width: 120%;*/
+    /*margin-left: -10% !important;*/
 }
 td:first-child {
     font-size: 14px;

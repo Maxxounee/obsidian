@@ -60,9 +60,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fc774c14462fc590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Python/Methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Math/Книга \"Статистика и котики\".md",
+                "file": "ML/Python/Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Math/Книга \"Статистика и котики\".md",
+                "file": "ML/Python/Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Math/Книга \"Статистика и котики\".md"
+                "file": "ML/Python/Methods.md"
               }
             }
           }
@@ -189,10 +201,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03c2610adf93d3a7",
+  "active": "fc774c14462fc590",
   "lastOpenFiles": [
-    "ML/assets/stat-and-cat/06.png",
     "ML/Math/Книга \"Статистика и котики\".md",
+    "ML/Python/Methods.md",
+    "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
+    "ML/assets/stat-and-cat/06.png",
     "ML/assets/stat-and-cat/05.png",
     "ML/assets/stat-and-cat/04.png",
     "ML/assets/stat-and-cat/03.jpg",
@@ -201,7 +215,6 @@
     "ML/assets/stat-and-cat/IMG_6834 2.heic",
     "ML/assets/stat-and-cat/IMG_6834 1.heic",
     "ML/assets/stat-and-cat/IMG_6834.heic",
-    "ML/Python/Methods.md",
     "ML/useful/Learn.md",
     "ML/Math/Математика. Разное/Градиент, частные производные.md",
     "ML/Math/Математика. Разное/Лекции MLinside (хуета)/Предел и производная.md",
@@ -209,7 +222,6 @@
     "ML/Python",
     "ML/assets/stat-and-cat",
     "ML/Math/Суть математического анализа 3Blue1Brown.md",
-    "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
     "ML/assets/3blue1brown/calcus",
     "ML/Math/Математика. Разное/Функция, производная, первообразная, интеграл.md",
     "ML/Math/Математика. Разное/Метод Гаусса. Приведение матрицы к ступенчатому виду.md",
