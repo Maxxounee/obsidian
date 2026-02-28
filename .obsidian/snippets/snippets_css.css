@@ -8,6 +8,7 @@
     --wood: #81715e;
     --oatmeal: #d5c9b1;
     --oatmeal-t: rgba(213, 201, 177, 0.2);
+
 }
 
 body {
@@ -17,12 +18,23 @@ body {
     --h5-color: orange;
     --h6-color: pink;
 
+
     --user-custom-width: 55rem !important;
     --file-line-width: var(--user-custom-width) ;
     --content-max-width: 100rem !important;
     --content-base-width: var(--user-custom-width);
 }
 
+.cm-line,
+.cm-link,
+center,
+.inline-title {
+    font-family: "JetBrains Mono";
+}
+
+.MathJax {
+    border-right: 1px solid white
+}
 .cm-sizer {
     /*margin: 5% !important;*/
 }
@@ -77,4 +89,36 @@ img[alt*="center"] {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+thead th {
+    color: var(--orange) !important;
+}
+
+thead th:first-child {
+    text-align: center;
+}
+
+div.cm-embed-block.cm-table-widget.markdown-rendered {
+    width: 120%;
+    margin-left: -10% !important;
+}
+td:first-child {
+    font-size: 14px;
+    white-space: nowrap !important;
+    font-family: "JetBrains Mono";
+    text-align: center;
+    vertical-align: middle;
+}
+td:not(:first-child) {
+    font-size: 18px;
+    /*text-align: center;*/
+    /*vertical-align: middle;*/
+}
+td:first-child div.table-cell-wrapper {
+    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    justify-content: center;
 }
