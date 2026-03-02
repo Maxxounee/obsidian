@@ -72,9 +72,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0ad84f81fa44418",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Python/Methods.md",
+                "file": "ML/Math/Книга \"Статистика и котики\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Python/Methods.md",
+                "file": "ML/Math/Книга \"Статистика и котики\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Python/Methods.md"
+                "file": "ML/Math/Книга \"Статистика и котики\".md"
               }
             }
           }
@@ -201,10 +209,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc774c14462fc590",
+  "active": "03c2610adf93d3a7",
   "lastOpenFiles": [
-    "ML/Math/Книга \"Статистика и котики\".md",
     "ML/Python/Methods.md",
+    "ML/Math/Книга \"Статистика и котики\".md",
+    "ML/Math/Математика. Разное/Градиент, частные производные.md",
+    "ML/useful/Learn.md",
+    "ML/useful/Плагины и символы.md",
     "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
     "ML/assets/stat-and-cat/06.png",
     "ML/assets/stat-and-cat/05.png",
@@ -215,10 +226,7 @@
     "ML/assets/stat-and-cat/IMG_6834 2.heic",
     "ML/assets/stat-and-cat/IMG_6834 1.heic",
     "ML/assets/stat-and-cat/IMG_6834.heic",
-    "ML/useful/Learn.md",
-    "ML/Math/Математика. Разное/Градиент, частные производные.md",
     "ML/Math/Математика. Разное/Лекции MLinside (хуета)/Предел и производная.md",
-    "ML/useful/Плагины и символы.md",
     "ML/Python",
     "ML/assets/stat-and-cat",
     "ML/Math/Суть математического анализа 3Blue1Brown.md",

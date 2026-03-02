@@ -34,7 +34,8 @@ table {
 }
 
 .MathJax {
-    border-right: 1px solid white
+    /*border-right: 10px solid rgba(255, 119, 45, 0.45)*/
+    border-right: 2px solid var(--orange)
 }
 .cm-sizer {
     /*margin: 5% !important;*/
