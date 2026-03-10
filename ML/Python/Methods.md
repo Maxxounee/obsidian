@@ -1,3 +1,8 @@
+## Статьи и информация
+
+* [Итераторы и их работа](https://habr.com/ru/articles/488112/)
+
+
 ## Встроенные функции
 
 ### Преобразование типов:
@@ -81,7 +86,15 @@ c = [c + d for c in 'list' if c != 'i' for d in 'spam' if d != 'a']
 table = str.maketrans('ABC', 'DEF')
 'AAABBC'.translate(table)
 # >>> DDDEEF
-#_____
+
+#_____ format
+n = 8
+return format(n, 'b') # >> В бинарное значение 1111
+return f'{n:b}' # >> В бинарное значение 1111
+
+# ___ Поиск мин макс по строкам
+l = '10 20 30 -4 -5'.split(' ')
+return min(l, key=int)
 
 ```
 
@@ -205,5 +218,21 @@ match = re.search(r'(?<=символ ).', text)
 if match:
     print(match.group()) # Выведет: 7
 
+#____ Группы
 
+import re
+
+def encrypt_this(text):
+    def encrypt(word):
+	    # Меняет местами 2 и последнюю буквы слова
+        switched = re.sub(r'(.)(.)(.*)(.)', r'\1\4\3\2', word)
+        # Именованные группы. Делает то же самое
+        switched = re.sub(
+        r'((?P<a>.)(?P<b>.)(?P<c>.*)(?P<d>.)\s?)*',
+        r'\g<a>\g<d>\g<c>\g<b>',
+        word
+        )
+        return switched
+    
+    return ' '.join(map(encrypt, text.split(' ')))
 ```

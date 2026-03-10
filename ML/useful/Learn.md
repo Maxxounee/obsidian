@@ -1,3 +1,9 @@
+
+## Учебник от Яндекс
+
+[Учебник](https://education.yandex.ru/handbook/ml/article/about)
+
+
 ## Полезные каналы
 
 1. [Математика без Ху%!ни. Sergej Kuts](https://www.youtube.com/@SergejKuts)

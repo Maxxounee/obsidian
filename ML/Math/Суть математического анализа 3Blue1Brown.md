@@ -32,4 +32,11 @@ ___
 [Конспект #2](https://www.youtube.com/watch?v=nqbOf7_QvtQ)
 
 ___
+![[../assets/3blue1brown/calcus/2-1.png|center|700]]
+
+![[../assets/3blue1brown/calcus/2-2.png|center|700]]
+<center>dt — маленькое, но конечное изменение времени t (∆t стремится к нулю). ds — изменение перемещение, вызванное изменением dt</center>
+
+<blockquote>
+В математике использование буквы <mark>d</mark> говорит о <mark>намерении</mark> рассматривать, что происходит, когда <mark>t</mark> стремится к нулю</blockquote>
 
