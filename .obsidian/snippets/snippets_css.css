@@ -107,7 +107,7 @@ div.cm-embed-block.cm-table-widget.markdown-rendered {
 }
 td:first-child {
     font-size: 16px;
-    white-space: nowrap !important;
+    /*white-space: nowrap !important;*/
     font-family: "JetBrains Mono";
     text-align: center;
     vertical-align: middle;
