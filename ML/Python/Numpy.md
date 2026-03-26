@@ -56,6 +56,20 @@ A_T = A.T # Транспонированная матрица
 A_1 = np.linalg.inv(A) # Обратная матрица
 
 B_filtered = B < 0 #[true, false, false, false, true, true]
+
+np.average(B) # -1.17... — Среднее значение
+np.mean(B) # Как и average (пока не изучал подробно)
+
+
+# np.outer(). По факту просто x.T @ [1, 2, 3]
+x = np.array(['a', 'b', 'c'])
+np.outer(x, [1, 2, 3])
+array([['a', 'aa', 'aaa'],
+       ['b', 'bb', 'bbb'],
+       ['c', 'cc', 'ccc']])
+# end ___
+
+
 ```
 
 ## Другие
@@ -77,6 +91,7 @@ p2 = np.array([1, x2, y2])
 
 w = np.cross(p1, p2) # Находим их векторное произведение
 # end ___________________
+
 
 
 ```

@@ -36,13 +36,13 @@
             }
           },
           {
-            "id": "03c2610adf93d3a7",
+            "id": "da47a4a038bf8656",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Math/Книга \"Статистика и котики\".md",
+                "file": "ML/ML/ML Разное/Формулы ML.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,13 +78,39 @@
             }
           },
           {
+            "id": "a980686e772e54e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Math/Математика. Разное/Градиент, частные производные.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4fb1ae198d525914",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/ML/balakirev/Добрый, добрый ИИ.md",
+                "file": "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7988ed7aeda5739d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиентный алгоритм. L-1, L-2 регуляризаторы.md",
                 "mode": "source",
                 "source": false
               },
@@ -92,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Python/Numpy.md",
+                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиентный алгоритм. L-1, L-2 регуляризаторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Python/Numpy.md",
+                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиентный алгоритм. L-1, L-2 регуляризаторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Python/Numpy.md"
+                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиентный алгоритм. L-1, L-2 регуляризаторы.md"
               }
             }
           }
@@ -219,36 +245,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f82bb293de6a8294",
+  "active": "7988ed7aeda5739d",
   "lastOpenFiles": [
-    "ML/ML/balakirev/Добрый, добрый ИИ.md",
-    "ML/assets/ml/balakirev/1/32.png",
+    "ML/assets/ml/balakirev/2/17.png",
+    "ML/assets/ml/balakirev/2/14.png",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиентный алгоритм. L-1, L-2 регуляризаторы.md",
+    "ML/assets/ml/balakirev/2/16.png",
+    "ML/useful/Плагины и символы.md",
+    "ML/useful/Learn.md",
+    "ML/ML/ML Разное/Формулы ML.md",
+    "ML/assets/ml/balakirev/2/15.png",
+    "ML/assets/ml/balakirev/2/13.png",
+    "ML/Math/Книга \"Статистика и котики\".md",
+    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение.md",
+    "ML/Math/Математика. Разное/Градиент, частные производные.md",
+    "ML/ML/ML Разное",
+    "ML/assets/ml/balakirev/2/12.png",
+    "ML/assets/ml/balakirev/2/11.png",
+    "ML/assets/ml/balakirev/2/10.png",
+    "ML/assets/ml/balakirev/2/9.png",
+    "ML/assets/ml/balakirev/2/9.png",
+    "ML/assets/ml/balakirev/2/8.png",
+    "ML/assets/ml/balakirev/2",
     "ML/Python/Numpy.md",
-    "ML/assets/ml/balakirev/1/31.png",
-    "ML/assets/ml/balakirev/1/30.png",
-    "ML/assets/ml/balakirev/1/28.png",
-    "ML/assets/ml/balakirev/1/29.png",
-    "ML/assets/ml/balakirev/1/27.png",
-    "ML/assets/ml/balakirev/1/26.png",
-    "ML/assets/ml/balakirev/1/25.png",
-    "ML/assets/ml/balakirev/1/24.png",
-    "ML/assets/ml/balakirev/1/22.png",
     "ML/Python/Methods.md",
     "ML/assets/ml/balakirev/1",
     "ML/Python/Untitled",
     "ML/assets/ml/Untitled",
     "ML/Math/Математика. Разное/Функция, производная, первообразная, интеграл.md",
     "ML/Math/Математика. Разное/Метод Гаусса. Приведение матрицы к ступенчатому виду.md",
-    "ML/useful/Learn.md",
     "ML/Math/Математика. Разное/Основные понятия и формулы.md",
     "ML/Math/Математика. Разное/Математические формулы.md",
-    "ML/Math/Математика. Разное/Градиент, частные производные.md",
     "ML/Math/Математика. Разное/Лекции MLinside (хуета)/Предел и производная.md",
     "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
-    "ML/useful/Плагины и символы.md",
     "3d/Blender.md",
     "3d/Blender Models.md",
-    "ML/Math/Книга \"Статистика и котики\".md",
     "ML/ML/Гоша Дударь. Machine Learning с нуля.md",
     "ML/assets/ml/balakirev",
     "ML/ML/balakirev",
@@ -258,13 +289,9 @@
     "ML/Math/Суть математического анализа 3Blue1Brown.md",
     "ML/Math/Теория вероятности",
     "ML/assets/ml/yandex-book/1",
-    "ML/ML/Yandex Book",
-    "ML/assets/ml/yandex-book",
     "Untitled.md",
     "ML/Untitled.md",
     "ML/Math/Математика. Разное/Лекции MLinside (хуета)/Градиент функции, градиентный спуск.md",
-    "ML/Math/Математика. Разное/Лекции MLinside.md",
-    "ML/Math/Лекции MLinside.md",
-    "Поездка/Поездка.md"
+    "ML/Math/Математика. Разное/Лекции MLinside.md"
   ]
 }
