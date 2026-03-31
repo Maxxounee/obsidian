@@ -45,6 +45,51 @@ $$
 
 $$
 
+```python
+Qe = 0
+lm = 0.01
+eta = np.array([0.1, 0.01, 0.001, 0.0001])
+
+def loss(w, x, y):
+	return (w @ x - y) ** 2
+	
+def df(w, x, y):
+    return 2 * ((w.T @ x.T - y) @ x)
+
+# SAG
+
+for i in range(N):  
+    eps_k = np.average([loss(w, x, y) for x, y in zip(x_train, y_train)])
+    w = w - eta * sum([df(w, x, fx)] for x, y in zip(x_train, y_train)) / len(x_train)
+
+Q = np.average((w @ x_train - y_train) ** 2)
+    
+# SGD 
+
+for i in range(N):  
+	k = rand_k()  
+	
+    x_k = x_train[k]  
+    y_k = y_train[k]  
+  
+    eps_k = loss(w, x_k, y_k)  
+    w = w - eta * df(w, x_k, y_k)  
+  
+    Qe = lm * eps_k + (1 - lm) * Qe
+
+# SGD батчами
+
+for i in range(N):  
+	k = rand_k()  
+	
+    x_k = x_train[k:k+10]  
+    y_k = y_train[k:k+10]  
+  
+    eps_k = np.average([loss(w, x, y) for x, y in zip(x_k, y_k)])
+    w = w - eta * [df(w, x, y) for x, y in zip(x_k, y_k)].mean(1)  
+  
+    Qe = lm * eps_k + (1 - lm) * Qe
+```
 ### Поиск коэффициентов
 
 $$
