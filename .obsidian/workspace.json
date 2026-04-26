@@ -116,6 +116,18 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e650f24e5b73f504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ML/ML Разное/Регуляризация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 7
@@ -247,15 +259,17 @@
   },
   "active": "7988ed7aeda5739d",
   "lastOpenFiles": [
+    "ML/Python/Methods.md",
     "ML/Python/Numpy.md",
-    "ML/useful/Плагины и символы.md",
     "ML/useful/Learn.md",
+    "ML/useful/Плагины и символы.md",
+    "ML/ML/ML Разное/Формулы ML.md",
+    "ML/ML/ML Разное/Регуляризация.md",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиентный алгоритм. L-1, L-2 регуляризаторы.md",
-    "ML/assets/ml/balakirev/2/51.png",
     "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение.md",
+    "ML/assets/ml/balakirev/2/51.png",
     "ML/assets/ml/balakirev/2/50.png",
     "ML/ML/ML Разное/Хорошая информация.md",
-    "ML/ML/ML Разное/Регуляризация.md",
     "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
     "ML/ML/ML Разное/Обязательно к прочтению.md",
     "ML/assets/ml/balakirev/2/47.png",
@@ -268,8 +282,6 @@
     "ML/assets/ml/balakirev/2/44.png",
     "ML/assets/ml/balakirev/2/43.png",
     "ML/assets/ml/balakirev/2/42.png",
-    "ML/Python/Methods.md",
-    "ML/ML/ML Разное/Формулы ML.md",
     "ML/Math/Книга \"Статистика и котики\".md",
     "ML/ML/ML Разное",
     "ML/assets/ml/balakirev/2",
