@@ -92,21 +92,15 @@
           {
             "id": "9bb6be7faaf39def",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.5 L2-регуляризатор. Математическое обоснование и пример работы.md",
+                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "96f716a2c736c1b1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              },
+              "pinned": true
             }
           },
           {
@@ -184,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.5 L2-регуляризатор. Математическое обоснование и пример работы.md",
+                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.5 L2-регуляризатор. Математическое обоснование и пример работы.md",
+                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.5 L2-регуляризатор. Математическое обоснование и пример работы.md"
+                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md"
               }
             }
           }
@@ -245,81 +239,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "904ec66cab9dab46",
-    "type": "floating",
-    "children": [
-      {
-        "id": "79fde63ccbdc6226",
-        "type": "window",
-        "children": [
-          {
-            "id": "019665da3ca54c99",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4fb1ae198d525914",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1720,
-        "y": 25,
-        "width": 1720,
-        "height": 1382,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
   "active": "9bb6be7faaf39def",
   "lastOpenFiles": [
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиентный алгоритм. L-1, L-2 регуляризаторы.md",
+    "ML/assets/ml/balakirev/2/61.png",
+    "ML/assets/ml/balakirev/2/62.png",
+    "ML/assets/ml/balakirev/2/60.png",
+    "ML/useful/Плагины и символы.md",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.5 L2-регуляризатор. Математическое обоснование и пример работы.md",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.4 Оптимизаторы градиентных алгоритмов RMSProp, AdaDelta, Adam.md",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.3 Пример использования SGD при бинарной классификации образов.md",
+    "ML/assets/ml/balakirev/2/59.png",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.2 Стохастический градиентный спуск SGD и алгоритм SAG.md",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.1 Градиентный алгоритм (градиентный спуск).md",
+    "ML/ML/ML Разное/Регуляризация и другое.md",
+    "ML/ML/ML Разное/Хорошая информация.md",
+    "3d/Blender.md",
+    "3d/Blender Models.md",
+    "3d/Fusion 360.md",
+    "3d/lamp 1.md",
+    "3d/lamp 2.md",
+    "3d/Точные рахмеры.md",
+    "3d/Разные наблюдения.md",
+    "3d/Настройки Пластиков.md",
+    "3d/Модель 1.md",
+    "3d/Конспект курса smile 1.md",
+    "3d/Замена fusion - Onshape.md",
+    "3d/Orca Slicer.md",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.3 Пример использования SGD при бинарной классификации образов.md",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиентный алгоритм. L-1, L-2 регуляризаторы.md",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.4 Оптимизаторы градиентных алгоритмов RMSProp, AdaDelta, Adam.md",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы",
     "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение/1.8 Функции потерь в задачах линейной бинарной классификации.md",
     "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение.md",
     "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение/1.7 Решение простой задачи бинарной классификации.md",
-    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение/1.6 Уравнение гиперплоскости в задачах бинарной классификации.md",
-    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение/1.5 Способы оценки степени переобучения моделей.md",
-    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение/1.4 Линейная модель. Понятие переобучения.md",
-    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение/1.3 Постановка задачи машинного обучения.md",
-    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение/1.2 Что такое машинное обучение. Обучающая выборка.md",
-    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение/0. Термины.md",
     "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение",
     "ML/assets/ml/balakirev/2/56.png",
     "ML/assets/ml/balakirev/2/58.png",
     "ML/assets/ml/balakirev/2/56.png",
     "ML/assets/ml/balakirev/2/57.png",
     "ML/assets/ml/balakirev/2/55.png",
-    "ML/ML/ML Разное/Регуляризация.md",
     "ML/assets/ml/balakirev/2/54.png",
     "ML/assets/ml/balakirev/2/52.png",
-    "ML/assets/ml/balakirev/2/53.png",
-    "ML/Python/Methods.md",
-    "ML/Python/Numpy.md",
-    "ML/useful/Learn.md",
-    "ML/useful/Плагины и символы.md",
-    "ML/ML/ML Разное/Формулы ML.md",
-    "ML/assets/ml/balakirev/2/51.png",
-    "ML/assets/ml/balakirev/2/50.png",
-    "ML/ML/ML Разное/Хорошая информация.md",
-    "ML/Math/Суть линейной алгебры 3Blue1Brown.md",
-    "ML/ML/ML Разное/Обязательно к прочтению.md",
-    "ML/Math/Математика. Разное/Градиент, частные производные.md",
-    "ML/Python/Matplotlib.md",
     "ML/ML/ML Разное",
     "ML/assets/ml/balakirev/2",
     "ML/assets/ml/balakirev/1",
