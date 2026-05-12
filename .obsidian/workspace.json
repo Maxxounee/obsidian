@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Math/Математика. Разное/Градиент, частные производные.md",
+                "file": "ML/ML/ML Разное/Регуляризация и другое.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,6 +109,30 @@
             "state": {
               "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "e852f4ad85dde618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ML/ML Разное/Регуляризация и другое.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "042b68e20caae3bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.3 Пример использования SGD при бинарной классификации образов.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -241,16 +265,25 @@
   },
   "active": "9bb6be7faaf39def",
   "lastOpenFiles": [
+    "ML/assets/ml/balakirev/2/66.png",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.3 Пример использования SGD при бинарной классификации образов.md",
+    "ML/assets/ml/balakirev/2/63.png",
+    "ML/assets/ml/balakirev/2/64.png",
+    "ML/assets/ml/balakirev/2/65.png",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.4 Оптимизаторы градиентных алгоритмов RMSProp, AdaDelta, Adam.md",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.5 L2-регуляризатор. Математическое обоснование и пример работы.md",
+    "ML/Python/Methods.md",
+    "ML/ML/ML Разное/Регуляризация и другое.md",
+    "ML/ML/ML Разное/Обязательно к прочтению.md",
+    "ML/Math/Математика. Разное/Градиент, частные производные.md",
     "ML/assets/ml/balakirev/2/61.png",
     "ML/assets/ml/balakirev/2/62.png",
     "ML/assets/ml/balakirev/2/60.png",
     "ML/useful/Плагины и символы.md",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.5 L2-регуляризатор. Математическое обоснование и пример работы.md",
     "ML/assets/ml/balakirev/2/59.png",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.2 Стохастический градиентный спуск SGD и алгоритм SAG.md",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.1 Градиентный алгоритм (градиентный спуск).md",
-    "ML/ML/ML Разное/Регуляризация и другое.md",
     "ML/ML/ML Разное/Хорошая информация.md",
     "3d/Blender.md",
     "3d/Blender Models.md",
@@ -264,21 +297,12 @@
     "3d/Конспект курса smile 1.md",
     "3d/Замена fusion - Onshape.md",
     "3d/Orca Slicer.md",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.3 Пример использования SGD при бинарной классификации образов.md",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиентный алгоритм. L-1, L-2 регуляризаторы.md",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.4 Оптимизаторы градиентных алгоритмов RMSProp, AdaDelta, Adam.md",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы",
-    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение/1.8 Функции потерь в задачах линейной бинарной классификации.md",
-    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение.md",
-    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение/1.7 Решение простой задачи бинарной классификации.md",
     "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение",
     "ML/assets/ml/balakirev/2/56.png",
     "ML/assets/ml/balakirev/2/58.png",
     "ML/assets/ml/balakirev/2/56.png",
-    "ML/assets/ml/balakirev/2/57.png",
-    "ML/assets/ml/balakirev/2/55.png",
-    "ML/assets/ml/balakirev/2/54.png",
-    "ML/assets/ml/balakirev/2/52.png",
     "ML/ML/ML Разное",
     "ML/assets/ml/balakirev/2",
     "ML/assets/ml/balakirev/1",
