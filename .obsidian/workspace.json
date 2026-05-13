@@ -112,31 +112,19 @@
             }
           },
           {
-            "id": "e852f4ad85dde618",
+            "id": "e4b28ea8518126d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/ML/ML Разное/Регуляризация и другое.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "042b68e20caae3bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.3 Пример использования SGD при бинарной классификации образов.md",
+                "file": "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.1 Логистическая регрессия. Вероятностный взгляд на МО.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -202,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
+                "file": "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.1 Логистическая регрессия. Вероятностный взгляд на МО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
+                "file": "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.1 Логистическая регрессия. Вероятностный взгляд на МО.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md"
+                "file": "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.1 Логистическая регрессия. Вероятностный взгляд на МО.md"
               }
             }
           }
@@ -263,28 +251,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bb6be7faaf39def",
+  "active": "e4b28ea8518126d7",
   "lastOpenFiles": [
+    "ML/assets/ml/balakirev/3/02.png",
+    "ML/useful/Плагины и символы.md",
+    "ML/ML/ML Разное/Формулы ML.md",
+    "ML/useful/Learn.md",
+    "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.1 Логистическая регрессия. Вероятностный взгляд на МО.md",
+    "ML/assets/ml/balakirev/3/01.png",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
+    "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО",
+    "ML/assets/ml/balakirev/3",
+    "ML/ML/ML Разное/Регуляризация и другое.md",
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.5 L2-регуляризатор. Математическое обоснование и пример работы.md",
+    "ML/assets/ml/balakirev/2/70.png",
+    "ML/assets/ml/balakirev/2/67.png",
+    "ML/assets/ml/balakirev/2/68.png",
+    "ML/assets/ml/balakirev/2/69.png",
+    "ML/Python/Numpy.md",
+    "ML/ML/ML Разное/Хорошая информация.md",
     "ML/assets/ml/balakirev/2/66.png",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.3 Пример использования SGD при бинарной классификации образов.md",
     "ML/assets/ml/balakirev/2/63.png",
     "ML/assets/ml/balakirev/2/64.png",
     "ML/assets/ml/balakirev/2/65.png",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.4 Оптимизаторы градиентных алгоритмов RMSProp, AdaDelta, Adam.md",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.5 L2-регуляризатор. Математическое обоснование и пример работы.md",
     "ML/Python/Methods.md",
-    "ML/ML/ML Разное/Регуляризация и другое.md",
     "ML/ML/ML Разное/Обязательно к прочтению.md",
     "ML/Math/Математика. Разное/Градиент, частные производные.md",
     "ML/assets/ml/balakirev/2/61.png",
-    "ML/assets/ml/balakirev/2/62.png",
-    "ML/assets/ml/balakirev/2/60.png",
-    "ML/useful/Плагины и символы.md",
-    "ML/assets/ml/balakirev/2/59.png",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.2 Стохастический градиентный спуск SGD и алгоритм SAG.md",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.1 Градиентный алгоритм (градиентный спуск).md",
-    "ML/ML/ML Разное/Хорошая информация.md",
     "3d/Blender.md",
     "3d/Blender Models.md",
     "3d/Fusion 360.md",
@@ -294,22 +291,13 @@
     "3d/Разные наблюдения.md",
     "3d/Настройки Пластиков.md",
     "3d/Модель 1.md",
-    "3d/Конспект курса smile 1.md",
-    "3d/Замена fusion - Onshape.md",
-    "3d/Orca Slicer.md",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиентный алгоритм. L-1, L-2 регуляризаторы.md",
     "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы",
     "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение",
-    "ML/assets/ml/balakirev/2/56.png",
-    "ML/assets/ml/balakirev/2/58.png",
-    "ML/assets/ml/balakirev/2/56.png",
     "ML/ML/ML Разное",
     "ML/assets/ml/balakirev/2",
     "ML/assets/ml/balakirev/1",
     "ML/Python/Untitled",
     "ML/assets/ml/Untitled",
-    "ML/assets/ml/balakirev",
-    "ML/ML/balakirev",
-    "ML/assets/math/veroyat"
+    "ML/assets/ml/balakirev"
   ]
 }
