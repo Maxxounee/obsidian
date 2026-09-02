@@ -2,5 +2,6 @@
   "baseFontSize": 21,
   "enabledCssSnippets": [
     "snippets_css"
-  ]
+  ],
+  "theme": "obsidian"
 }

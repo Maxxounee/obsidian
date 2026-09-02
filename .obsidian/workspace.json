@@ -78,19 +78,31 @@
             }
           },
           {
-            "id": "b40e31549ba7ce95",
+            "id": "4d723f5c2fcd3047",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.2 Вероятностный взгляд на L1 и L2-регуляризаторы.md",
+                "file": "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.5 L2-регуляризатор. Математическое обоснование и пример работы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fea909a61c5feaf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/ООП/3.3.3 Работа с датой и временем.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cross-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.2 Вероятностный взгляд на L1 и L2-регуляризаторы.md",
+                "file": "PHP/ООП/3.3.3 Работа с датой и временем.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.2 Вероятностный взгляд на L1 и L2-регуляризаторы.md",
+                "file": "PHP/ООП/3.3.3 Работа с датой и временем.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.2 Вероятностный взгляд на L1 и L2-регуляризаторы.md"
+                "file": "PHP/ООП/3.3.3 Работа с датой и временем.md"
               }
             }
           }
@@ -217,53 +229,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b40e31549ba7ce95",
+  "active": "fea909a61c5feaf9",
   "lastOpenFiles": [
-    "ML/useful/Плагины и символы.md",
-    "ML/useful/Learn.md",
-    "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.2 Вероятностный взгляд на L1 и L2-регуляризаторы.md",
-    "ML/ML/ML Разное/Кусочки/Теорема Байеса.md",
-    "ML/Python/Numpy.md",
-    "ML/ML/ML Разное/Кусочки/L1 L2 регуляризации.md",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы/2.6 L1-регуляризатор. Отличия между L1- и L2-регуляризаторами.md",
-    "ML/useful/test.md",
-    "ML/ML/ML Разное/Ссылки информации для изучения.md",
+    "PHP/Разные приколы.md",
+    "PHP/ООП/3.3.3 Работа с датой и временем.md",
+    "PHP/ООП/3.3.1 Обработка ошибок. Exception — исключения.md",
+    "PHP/ООП/Основы ООП. Примеры.md",
+    "PHP/ООП/3.3.2 Иерархия стандартных исключений в php.md",
+    "PHP/Проверка типа.md",
+    "PHP/__assets/img/3.01.webp",
+    "PHP/__assets/img",
+    "PHP/__assets",
+    "PHP/Строки.md",
+    "PHP/ООП/3.2.1 Инкапсуляция. Область видимости. Модификаторы доступа public, private, protected.md",
+    "PHP/ООП/3.2.2 Ключевые слова $this, self, parent, static. Константы. Статические свойства и методы.md",
+    "PHP/ООП/3.1.2 Наследование, абстракция, интерфейсы, полиморфизм, композиция.md",
+    "PHP/ООП/3.1.1 Основы ООП.md",
+    "PHP/ООП/Учить.md",
+    "PHP/Массивы.md",
+    "PHP/ООП",
+    "PHP/Задачи. Примеры/Задачи СТроки.md",
+    "PHP/Задачи. Примеры/Задачи.md",
+    "PHP/Файлы/Работа с файлами.md",
+    "PHP/Файлы",
+    "PHP/Функции.md",
+    "PHP/Циклы.md",
+    "PHP/Работа с числами.md",
+    "PHP/Задачи. Примеры",
+    "PHP/REGEX.md",
+    "PHP/Ассоциативные массивы.md",
+    "PHP/Область видимости. global static var.md",
+    "PHP/Указатель &.md",
     "ML/ML/ML Разное/Формулы ML.md",
-    "ML/ML/ML Разное/Хорошие каналы youtube.md",
-    "ML/ML/ML Разное/Кусочки/Норма. Что в ML означают две черты рядом с w.md",
-    "ML/ML/ML Разное/Кусочки/Не пользоваться SGD для поиска W при L2.md",
+    "FrontEnd/Docker.md",
+    "FrontEnd/Что изучить.md",
+    "FrontEnd",
+    "ML/assets/ml/balakirev/3/14.png",
+    "ML/assets/ml/balakirev/3/13.png",
+    "ML/assets/ml/balakirev/3/10.png",
+    "ML/assets/ml/balakirev/3/11.png",
+    "ML/assets/ml/balakirev/3/12.png",
+    "ML/assets/ml/balakirev/3/09.png",
+    "ML/assets/ml/balakirev/3/08.png",
+    "ML/assets/ml/balakirev/3/06.png",
+    "ML/assets/ml/balakirev/3/07.png",
     "ML/ML/ML Разное/Кусочки",
-    "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО/3.1 Логистическая регрессия. Вероятностный взгляд на МО.md",
-    "ML/Math/Книга \"Статистика и котики\".md",
-    "git/Git Usage.md",
-    "Interview/Задачи.md",
-    "Interview/Вопросы.md",
-    "Animation/Links.md",
-    "Excalidraw/Drawing 2026-01-21 14.19.00.excalidraw.md",
-    "NuxtVue/Чтиво.md",
-    "NuxtVue/Полезное.md",
-    "Useful/Учить.md",
-    "Useful/Сохранение картинок.md",
-    "Поездка/Поездка.md",
-    "Untitled.md",
-    "Screenshot 2026-03-23 at 22.36.06.png",
-    "ML/assets/ml/balakirev/3/02.png",
-    "ML/assets/ml/balakirev/3/01.png",
     "ML/ML/balakirev/3. Добрый, добрый ИИ. Вероятностный взгляд на задачи МО",
     "ML/assets/ml/balakirev/3",
-    "ML/assets/ml/balakirev/2/70.png",
-    "ML/assets/ml/balakirev/2/67.png",
-    "ML/assets/ml/balakirev/2/68.png",
-    "ML/assets/ml/balakirev/2/69.png",
-    "ML/assets/ml/balakirev/2/66.png",
-    "ML/assets/ml/balakirev/2/63.png",
-    "ML/assets/ml/balakirev/2/64.png",
-    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы",
-    "ML/ML/balakirev/1. Добрый, добрый ИИ. Введение в машинное обучение",
-    "ML/ML/ML Разное",
-    "ML/assets/ml/balakirev/2",
-    "ML/assets/ml/balakirev/1",
-    "ML/Python/Untitled",
-    "ML/assets/ml/Untitled"
+    "ML/ML/balakirev/2. Добрый, добрый ИИ. Градиент, регуляризаторы"
   ]
 }
