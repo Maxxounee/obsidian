@@ -1,4 +1,7 @@
 {
   "showRibbon": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "autoPairMarkdown": true,
+  "autoPairBrackets": true,
+  "newLinkFormat": "relative"
 }

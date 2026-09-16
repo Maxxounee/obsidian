@@ -62,3 +62,9 @@ SELECT
 FROM book
 GROUP BY author;
 ```
+
+### IS NULL
+
+```sql
+IF(VAR IS NULL, A, B)
+```
