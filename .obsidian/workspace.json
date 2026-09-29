@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "46a8aa6aab4c58cf",
+        "id": "b2434233e57b8c46",
         "type": "tabs",
         "children": [
           {
-            "id": "153620843c35b131",
+            "id": "2abb7af587a71352",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/👀 Шпаргалки SQL/😳 Шпаргалка SQL Общая.md",
+                "file": "🙈Programming/PHP. Laravel/🫦 Шпаргалки/Миграции.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,13 +22,13 @@
             }
           },
           {
-            "id": "036c616637c7ebe6",
+            "id": "be2f8fdd12ab1fbf",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/👀 Шпаргалки SQL/Объединение таблиц.md",
+                "file": "🙈Programming/PHP. Laravel/🫦 Шпаргалки/foreignId, foreign, contrained.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "ee12f09df0d1c94f",
+            "id": "10a6a281b2a1d82f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Поездка/Поездка.md",
+                "file": "🙈Programming/TypeScript/ULBI TV Фишки TS/08. Utility types. Omit, Pick, Exclude, Extract.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ROUND",
+                "query": "path:\"🙈Programming/TypeScript/ULBI TV Фундаментальный курс/\"  extends",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Поездка/Поездка.md",
+                "file": "🙈Programming/TypeScript/ULBI TV Фишки TS/08. Utility types. Omit, Pick, Exclude, Extract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Поездка/Поездка.md",
+                "file": "🙈Programming/TypeScript/ULBI TV Фишки TS/08. Utility types. Omit, Pick, Exclude, Extract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Поездка/Поездка.md"
+                "file": "🙈Programming/TypeScript/ULBI TV Фишки TS/08. Utility types. Omit, Pick, Exclude, Extract.md"
               }
             }
           }
@@ -175,53 +175,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee12f09df0d1c94f",
+  "active": "10a6a281b2a1d82f",
   "lastOpenFiles": [
-    "linux/Usage.md",
-    "_templates/Graph vector AB.md",
-    "Swift/Урок с Rutracker.md",
-    "🙈Programming/git/Git Usage.md",
-    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/👀 Шпаргалки SQL/Объединение таблиц.md",
-    "🙈Programming/FrontEnd/Docker.md",
-    "🙈Programming/FrontEnd/Что изучить.md",
-    "Animation/Links.md",
-    "🙈Programming/👀неактуально/python/torch.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/2. 11.00. Типы данных TS + специальные типы. Union, Intersection.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/4. 19.20. Основные группы типов. Примитивы, специальные типы, Any, Unknown, Never, Void. exhaustiveCheck.md",
+    "🙈Programming/TypeScript/ULBI TV Фишки TS/08. Utility types. Omit, Pick, Exclude, Extract.md",
+    "🙈Programming/TypeScript/ULBI TV Фишки TS/07. Immutable, readonly.md",
+    "🙈Programming/TypeScript/ULBI TV Фишки TS/06. Кортежи (tuple).md",
+    "🙈Programming/TypeScript/ULBI TV Фишки TS/05. Conditional types. Условные типы.md",
+    "🙈Programming/TypeScript/ULBI TV Фишки TS/04. ReturnType, Parameters.md",
+    "🙈Programming/TypeScript/ULBI TV Фишки TS/02. Typeguard is.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/18. 02.14.40. Asserts.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/19. 02.21.00 Перегрузка функций (function overload).md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/20. 02.23.20. Условные типы и Infer.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/17. 02.06.00. Utility types. Утилитарные типы. Pick, Omit, Record, Exclude, Extract, ReturnType, Parameters, Partial.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/16. 01.58.00. Mapped types.md",
+    "🙈Programming/TypeScript/ULBI TV Фишки TS/03. Enums vs const enum vs as const object.md",
+    "🙈Programming/TypeScript/ULBI TV Фишки TS/01. Exhaustive check.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/21. 02.31.10. Конфигурация проекта. TSconfig, vite.md",
+    "🙈Programming/TypeScript/ULBI TV Фишки TS",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/8. 55.30. Условные типы. Условная конструкция в generics.md",
+    "🙈Programming/TypeScript/Разное/Call signatures; Construct signatures.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/11. 01.12.40. Преобразование типов. Явное и неявное. Type assertion. As и satisfies. Когда можно, когда нельзя.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/10. 01.08.30. Type guards.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/9. 01.00.10. Сужение (разъединение) типов.md",
+    "🙈Programming/TypeScript/Разное/Общие типы у двух типов.md",
+    "🙈Programming/TypeScript/Разное/Способ объявить fn() + fn.someVal.md",
+    "🙈Programming/PHP. Laravel/🫦 Шпаргалки/foreignId, foreign, contrained.md",
+    "🙈Работа/Сопроводительные/26.09.24 Employcity.md",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/7. 42.10. Дженерики (Generics).md",
+    "🙈Programming/TypeScript/Разное",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/img/03.png",
+    "🙈Работа/Сопроводительные",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/img/02.png",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/img/01.png",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/img/00.png",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс/img",
+    "🙈Programming/TypeScript/ULBI TV Фундаментальный курс",
+    "🙈Programming/О технологиях/Untitled",
     "🙈Programming/👀неактуально",
-    "🙈Programming/👀неактуально/python/Нейросети.md",
-    "🙈Programming/NuxtVue/VUE/VUE Composition API.md",
-    "Interview/Задачи.md",
-    "Interview/Вопросы.md",
-    "🙈Programming/О технологиях/Клиент-Сервер UlbiTv.md",
     "🙈Programming",
-    "🙈Programming/TypeScript/ULBI TV.md",
     "🙈Programming/TypeScript",
-    "🙈Programming/PHP. Laravel/13. Миграции. Редактирование миграций.md",
     "🙈Programming/О технологиях",
-    "🙈Programming/PHP. Laravel/12. Модель. Комбинированные методы создания и обновления данных.md",
-    "🙈Programming/PHP. Laravel/🫦 Шпаргалки/Request.md",
-    "🙈Programming/PHP. Laravel/🫦 Шпаргалки/🫦 PHP Artisan.md",
-    "🙈Programming/PHP. Laravel/🫦 Шпаргалки/😎 Вывод информации.md",
-    "🙈Programming/PHP. Laravel/🫦 Шпаргалки",
-    "🙈Programming/PHP. Laravel/11. Модель. DELETE. Метод удаления данных (delete & soft delete).md",
-    "🙈Programming/PHP. Laravel/10. Модель. UPDATE. Методы обновления данных.md",
-    "🙈Programming/PHP. Laravel/9. Модель. CREATE. Метод добавления данных в базу.md",
-    "🙈Programming/PHP. Laravel/8. Модель. Методы чтения данных 2 (read & retrieve).md",
-    "🙈Programming/PHP. Laravel/7. Модель. Реализация методов модели.md",
-    "🙈Работа/Сопр ITAB.md",
-    "🙈Programming/PHP. Laravel",
-    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/3 Базы данных и SQL запросы/3.2 БД \"Тестирование\". Запросы корректировки",
     "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/3img/1/04.png",
     "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/3img/1/02.jpg",
     "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/3img/1/01.png",
     "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/3img/1/00.jpg",
-    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/3img/1",
-    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/3img",
-    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/3 Базы данных и SQL запросы/3.1 БД \"Тестирование\". Запросы на выборку",
     "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/2img/5/01.jpg",
-    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/2img/5/00.jpg",
-    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/2img/4/23.jpg",
-    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/2img/4/24.jpg",
-    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/2img/4/22.png",
-    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/2img/4/21.jpg"
+    "🙈Programming/SQL/Stepik. Интерактивный тренажер по SQL/_assets/2img/5/00.jpg"
   ]
 }

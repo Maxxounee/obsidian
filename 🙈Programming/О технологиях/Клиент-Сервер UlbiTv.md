@@ -29,3 +29,15 @@ crud — create, read, update, delete
 
 Api — application programming interface. Програмный интерфейс приложения
 
+### GraphQL
+
+GraphQL — почитать...
+
+
+### WebSockets
+
+Сокеты — протокол постоянного подключения (непрерывный обмен данными).
+
+### RPC
+
+Удаленный вызов процедур. Бывает gRPC и tRPC. Почитать.....

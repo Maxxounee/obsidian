@@ -5,6 +5,8 @@
     --orange: #e38533;
     --orange-t: rgba(227, 133, 51, 0.05);
     --yellow-pencil: #faae3d;
+    --supa-green: #afff7a;
+    --supa-violet: #81b3ff;
     --wood: #81715e;
     --oatmeal: #d5c9b1;
     --oatmeal-t: rgba(213, 201, 177, 0.2);
@@ -14,8 +16,8 @@
 body {
     --h2-color: var(--pink);
     --h3-color: var(--orange);
-    --h4-color: var(--yellow-pencil);
-    --h5-color: orange;
+    --h4-color: var(--supa-violet);
+    --h5-color: var(--supa-green);
     --h6-color: pink;
 
 
